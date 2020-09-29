@@ -8,7 +8,7 @@ export function App() {
         [
             {
                 type: "link",
-                link: {name: "New Home", url: "#1"}
+                link: {name: "Home page", url: "#1"}
             },
             {
                 type: "link",
