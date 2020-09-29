@@ -33,12 +33,6 @@ export function App() {
             <div class="position-absolute w-100" style={{top: "-30px"}}>
                 <div class="container">
                     <div class="row">
-                        <div class="col-10 border border-dark">
-                            First, but last
-                        </div>
-                        <div class="col border border-dark" style={{minWidth: "400px"}}>
-                            Second, but unordered
-                        </div>
                     </div>
                 </div>
                 </div>
