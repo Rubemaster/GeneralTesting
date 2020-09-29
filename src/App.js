@@ -33,6 +33,7 @@ export function App() {
             <div class="position-absolute w-100" style={{top: "-30px"}}>
                 <div class="container">
                     <div class="row">
+                        <PageElements.LinkRow/>
                     </div>
                 </div>
                 </div>
